@@ -54,13 +54,11 @@ To get started with this project, you need to have Python installed on your syst
 3. The script will process the video, detect anomalies, and display the video with detected anomalies in real-time.
 
 ## Project Structure
-    ```
-action-recognition-pipeline/
- ├──action_recognition.py # Main script for action recognition
- ├──README.md # Project README file
- ├──requirements.txt # Python packages required for the project
- └──action_recognition_weights.h5 # Pre-trained model weights
-    ```
+    action-recognition-pipeline/
+    ├──action_recognition.py # Main script for action recognition
+    ├──README.md # Project README file
+    ├──requirements.txt # Python packages required for the project
+    └──action_recognition_weights.h5 # Pre-trained model weights
 
 ## Model Training
 
