@@ -8,7 +8,6 @@ This project is an action recognition pipeline that uses OpenCV and TensorFlow t
 - [Project Structure](#project-structure)
 - [Model Training](#model-training)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
